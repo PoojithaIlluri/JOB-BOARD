@@ -1,0 +1,249 @@
+[{
+  "_id": {
+    "$oid": "662c9249703c42b15c1df53c"
+  },
+  "user": {
+    "$oid": "662bf4c1e4c8876a6aecbd3a"
+  },
+  "name": "React Developer",
+  "skills": [
+    "MongoDB",
+    "NoSQL",
+    "Cross-functional",
+    "Team Leadership",
+    "Functionality",
+    "Jasmine Framework",
+    "OAuth",
+    "PrimeNG",
+    "Server Side"
+  ],
+  "experience": 2,
+  "place": "hyderbad",
+  "no_of_jobs": 12,
+  "mode": "hybrid",
+  "salary": 300000,
+  "company_name": "google",
+  "date": {
+    "$date": "2024-04-27T05:51:05.157Z"
+  },
+  "__v": 0,
+  "description": "We are seeking a talented Mean Stack Developer to join our dynamic team. As a Mean Stack Developer, you will be responsible for developing and implementing user interfaces for web applications using cutting-edge technologies. You will collaborate with cross-functional teams to design, develop, and deploy intuitive and responsive user interfaces that enhance user experience and drive business growth.Key Responsibilities:Develop responsive and interactive user interfaces for web applications using HTML, CSS, JavaScript, SCSS, Angular, TypeScript &Node JS.Collaborate with UX/UI designers and back end developers to implement design mockups and integrate front end components with back end services."
+},
+{
+  "_id": {
+    "$oid": "66321fde9a601ec70fd2c6a6"
+  },
+  "user": {
+    "$oid": "662bf4c1e4c8876a6aecbd3a"
+  },
+  "name": "Frontend Developer (Vue.js)",
+  "description": "We're looking for a skilled Frontend Developer proficient in Vue.js to join our team. You'll be responsible for building and maintaining user interfaces for our web applications, collaborating with designers and backend developers to ensure seamless integration.",
+  "skills": [
+    "Vue.js",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "RESTful APIs",
+    "UI/UX Design"
+  ],
+  "experience": 3,
+  "place": "San Francisco",
+  "no_of_jobs": 5,
+  "mode": "Remote",
+  "salary": 900000,
+  "company_name": "Facebook",
+  "date": {
+    "$date": "2024-05-01T10:56:30.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663220589a601ec70fd2c6a9"
+  },
+  "user": {
+    "$oid": "662bf4c1e4c8876a6aecbd3a"
+  },
+  "name": "Full Stack Engineer (Python/Django)",
+  "description": "Join our team as a Full Stack Engineer where you'll contribute to the development and enhancement of our web applications using Python and Django. You'll work closely with cross-functional teams to deliver high-quality, scalable solutions.",
+  "skills": [
+    "Python",
+    "Django",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "RESTful APIs",
+    "SQL"
+  ],
+  "experience": 4,
+  "place": "New York City",
+  "no_of_jobs": 3,
+  "mode": "On-site",
+  "salary": 600000,
+  "company_name": "HTC",
+  "date": {
+    "$date": "2024-05-01T10:58:32.833Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663220ca9a601ec70fd2c6af"
+  },
+  "user": {
+    "$oid": "6632207a9a601ec70fd2c6ac"
+  },
+  "name": "UI/UX Designer",
+  "description": "We're seeking a talented UI/UX Designer to join our creative team. You'll be responsible for creating intuitive and visually appealing user interfaces for our web and mobile applications, collaborating with developers to ensure design feasibility.",
+  "skills": [
+    "UI/UX Design",
+    "Adobe Creative Suite",
+    "Sketch",
+    "Wireframing",
+    "Prototyping"
+  ],
+  "experience": 2,
+  "place": "London",
+  "no_of_jobs": 10,
+  "mode": "Remote",
+  "salary": 400000,
+  "company_name": "LG",
+  "date": {
+    "$date": "2024-05-01T11:00:26.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632215e9a601ec70fd2c6b4"
+  },
+  "user": {
+    "$oid": "6632207a9a601ec70fd2c6ac"
+  },
+  "name": "Backend Developer (Node.js/Express)",
+  "description": "We're looking for a Backend Developer proficient in Node.js and Express to join our backend development team. You'll be responsible for building and maintaining server-side logic, collaborating with frontend developers to integrate user-facing elements.",
+  "skills": [
+    "Node.js",
+    "Express.js",
+    "RESTful APIs",
+    "MongoDB",
+    "SQL",
+    "Git"
+  ],
+  "experience": 3,
+  "place": "Banglore",
+  "no_of_jobs": 4,
+  "mode": "On-site",
+  "salary": 800000,
+  "company_name": "Google",
+  "date": {
+    "$date": "2024-05-01T11:02:54.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663221be9a601ec70fd2c6b7"
+  },
+  "user": {
+    "$oid": "6632207a9a601ec70fd2c6ac"
+  },
+  "name": "DevOps Engineer",
+  "description": "Join our team as a DevOps Engineer where you'll be responsible for automating and streamlining our deployment processes, implementing continuous integration and delivery pipelines, and ensuring the reliability and scalability of our infrastructure.",
+  "skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Jenkins",
+    "Shell Scripting"
+  ],
+  "experience": 5,
+  "place": "Berlin",
+  "no_of_jobs": 1,
+  "mode": "On-site",
+  "salary": 700000,
+  "company_name": "Intel",
+  "date": {
+    "$date": "2024-05-01T11:04:30.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6637247589e7d8d5ff29c20a"
+  },
+  "user": {
+    "$oid": "6635d7fd89e7d8d5ff29c13c"
+  },
+  "name": "Node Js Developer",
+  "description": "This is a full-time on-site role for a Node Js Developer at iSmartWeb, located in Jaipur. The Node Js Developer will be responsible for front-end and back-end web development, software development, and JavaScript programming.   Ideal candidates for this position should possess one or all of the expertise below: Skill required in full stack developer experience in Node.JS and react js Proficient knowledge of a backend programming language and an in-depth understanding of web development. Strong with Node.js and Express framework.",
+  "skills": [
+    "JavaScript, Node, mongoDB"
+  ],
+  "experience": 2,
+  "place": "Jaipur, Rajasthan, India",
+  "no_of_jobs": 21,
+  "mode": "Hybrid",
+  "salary": 300000,
+  "company_name": "iSmartWeb",
+  "date": {
+    "$date": "2024-05-05T06:17:25.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663760abd100bfb4a4623f09"
+  },
+  "user": {
+    "$oid": "6635d7fd89e7d8d5ff29c13c"
+  },
+  "name": "Backend Developer",
+  "description": "Develop and maintain high-quality, scalable, and secure applications using Python, Django, and other relevant technologies. Integrate and manage AWS services such as EC2, S3, RDS, Lambda, and others to ensure efficient and cost-effective deployment, storage, and management of applications. Design, implement, and maintain RESTful APIs for seamless communication between front-end and back-end components of the application.",
+  "skills": [
+    "Python",
+    " Java",
+    " SQL",
+    " Azure",
+    " Devops"
+  ],
+  "experience": 1,
+  "place": "Chennai, Tamil Nadu, India",
+  "no_of_jobs": 2,
+  "mode": "On-site",
+  "salary": 300000,
+  "company_name": "qBotica",
+  "date": {
+    "$date": "2024-05-05T10:34:19.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66379577c8cad55bca5db9c0"
+  },
+  "user": {
+    "$oid": "663228a59a601ec70fd2c6ea"
+  },
+  "name": "Mern Stack Developer",
+  "description": " We are searching for an experienced Senior MERN Stack Developer to lead our development  efforts. Your expertise will drive the creation of cutting-edge web applications while  mentoring junior developers and contributing to technical strategy.  Lead and participate in the architecture, design, and development of complex  applications.",
+  "skills": [
+    "HTML",
+    " CSS",
+    " JavaScript",
+    " React",
+    " Node",
+    " mongoDB"
+  ],
+  "experience": 2,
+  "place": "Hyderabad, Telangana, India",
+  "no_of_jobs": 5,
+  "mode": "Hybrid",
+  "salary": 500000,
+  "company_name": "EKSAQ",
+  "date": {
+    "$date": "2024-05-05T14:19:35.144Z"
+  },
+  "__v": 0
+}]
